@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.heading {
+  margin: 0;
+  padding: 15px;
+}
+
+.activity-img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.activity-div {
+  padding: 10px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#hero {
+  margin: 0;
+  background-image: url("images/EdinburghHeader.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#activities-section {
+  background-color: azure;
+  color: midnightblue;
+}
+
+#activities-list {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#title {
+  background-color: cornflowerblue;
+  color: aliceblue;
+  padding: 3px 8px;
+  border-radius: 5px;
+  text-shadow: 0 0 2px black;
+}
+
+#subtitle {
+  background-color:midnightblue;
+  color: aliceblue;
+  padding: 3px 8px;
+  border-radius: 5px;
+  text-shadow: 0 0 2px black;
+  font-weight: bold;
+  font-size: 1.5rem;
+  width: 450px;
+}

@@ -1,0 +1,26 @@
+body {
+  background-image: url("Images/universe.jpg");
+  background-size: cover;
+  color: white;
+  background-repeat: no-repeat;
+  font-family: "Orbitron", sans-serif;
+}
+
+.hero {
+  text-align: center;
+}
+
+.apply-btn {
+  padding: 8px 12px;
+  font-weight: bold;
+  background-color: white;
+  border: none;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.underline {
+  text-decoration: underline 5px;
+}
