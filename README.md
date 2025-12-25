@@ -1,4 +1,4 @@
-This is a series of small sites and projects carried out as part of Scrimba's Full Stack Web Development course.
+This is a series of small sites and projects carried out to practice and learn full stack web development.
 
 This is helping me sure up my foundations in HTML and CSS, as well as gain experience with JavaScript, and eventually React, TypeScript, and Next.js
 
