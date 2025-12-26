@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(40, 47, 64);
+}
+
+h1 {
+  color: aliceblue;
+}
+
+hr {
+  max-width: 300px;
+  border-radius: 5px;
+}
+
+.btn {
+  background-color: rgb(16, 104, 10);
+  border: none;
+  border-radius: 3px;
+  color: aliceblue;
+  text-shadow: 0 0 1px black;
+  font-weight: bolder;
+  font-size: 16px;
+  padding: 3px 9px;
+}
+
+.btn:active {
+  padding: 1px 7px;
+  border: 2px solid rgb(13, 204, 13);
+}
+
+.password-div {
+  padding: 3px 10px;
+  background-color: darkgray;
+  border-radius: 2px;
+  color: rgb(16, 104, 10);
+  font-weight: bold;
+}
+
+#heading-highlight {
+  color: rgb(16, 104, 10);
+}
+
+#subtitle {
+  color: grey;
+  font-size: 1.2rem;
+}
+
+#passwords-section {
+  display: flex;
+  justify-content: space-around;
+}
