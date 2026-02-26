@@ -6,3 +6,4 @@ This is helping me sure up my foundations in HTML and CSS, as well as gain exper
 2. HometownSite - solo project that allowed me to explore using better semantic HTML as well as using Flexbox in CSS
 3. Blackjack - first complete webapp using JavaScript for the logic, revising basic syntax of the language, including arrays, logical operators, for loops, and JavaScript objects
 4. Password generator - solo project practicing JavaScript logic and design
+5. Unit converter - more JavaScript practice, this time using user input
